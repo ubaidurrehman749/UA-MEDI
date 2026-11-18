@@ -1,0 +1,6 @@
+{
+  "name": "HealthMate AI",
+  "description": "Your Intelligent Health Companion — AI health assistant, smart symptom checker, medical report analyzer, medication manager, health journal, appointment prep, education, and emergency guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
